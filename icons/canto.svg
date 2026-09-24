@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_43673_5459)">
+<mask id="mask0_43673_5459" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="24" height="24">
+<path d="M12 24C18.6274 24 24 18.6274 24 12C24 5.37258 18.6274 0 12 0C5.37258 0 0 5.37258 0 12C0 18.6274 5.37258 24 12 24Z" fill="#D9D9D9" />
+</mask>
+<g mask="url(#mask0_43673_5459)">
+<path d="M24 0H0V24H24V0Z" fill="#374151" />
+<path d="M0 0.599609H24" stroke="#06FC99" stroke-opacity="0.1" stroke-width="0.12" />
+<path d="M0 1.2002H24" stroke="#06FC99" stroke-opacity="0.1" stroke-width="0.12" />
+<path d="M0 1.7998H24" stroke="#06FC99" stroke-opacity="0.1" stroke-width="0.12" />
+<path d="M0 2.40039H24" stroke="#06FC99" stroke-opacity="0.1" stroke-width="0.12" />
+<path d="M0 3H24" stroke="#06FC99" stroke-opacity="0.1" stroke-width="0.12" />
+<path d="M0 3.59961H24" stroke="#06FC99" stroke-opacity="0.1" stroke-width="0.12" />
+<path d="M0 4.2002H24" stroke="#06FC99" stroke-opacity="0.1" stroke-width="0.12" />
+<path d="M0 4.7998H24" stroke="#06FC99" stroke-opacity="0.1" stroke-width="0.12" />
+<path d="M0 5.40039H24" stroke="#06FC99" stroke-opacity="0.1" stroke-width="0.12" />
+<path d="M0 6H24" stroke="#06FC99" stroke-opacity="0.1" stroke-width="0.12" />
+<path d="M0 6.59961H24" stroke="#06FC99" stroke-opacity="0.1" stroke-width="0.12" />
+<path d="M0 7.2002H24" stroke="#06FC99" stroke-opacity="0.1" stroke-width="0.12" />
+<path d="M0 7.7998H24" stroke="#06FC99" stroke-opacity="0.1" stroke-width="0.12" />
+<path d="M0 8.40039H24" stroke="#06FC99" stroke-opacity="0.1" stroke-width="0.12" />
+<path d="M0 9H24" stroke="#06FC99" stroke-opacity="0.1" stroke-width="0.12" />
+<path d="M0 9.59961H24" stroke="#06FC99" stroke-opacity="0.1" stroke-width="0.12" />
+<path d="M0 10.2002H24" stroke="#06FC99" stroke-opacity="0.1" stroke-width="0.12" />
+<path d="M0 10.7998H24" stroke="#06FC99" stroke-opacity="0.1" stroke-width="0.12" />
+<path d="M0 11.4004H24" stroke="#06FC99" stroke-opacity="0.1" stroke-width="0.12" />
+<path d="M0 12H24" stroke="#06FC99" stroke-opacity="0.1" stroke-width="0.12" />
+<path d="M0 12.5996H24" stroke="#06FC99" stroke-opacity="0.1" stroke-width="0.12" />
+<path d="M0 13.2002H24" stroke="#06FC99" stroke-opacity="0.1" stroke-width="0.12" />
+<path d="M0 13.7998H24" stroke="#06FC99" stroke-opacity="0.1" stroke-width="0.12" />
+<path d="M0 14.4004H24" stroke="#06FC99" stroke-opacity="0.1" stroke-width="0.12" />
+<path d="M0 15H24" stroke="#06FC99" stroke-opacity="0.1" stroke-width="0.12" />
+<path d="M0 15.5996H24" stroke="#06FC99" stroke-opacity="0.1" stroke-width="0.12" />
+<path d="M0 16.2002H24" stroke="#06FC99" stroke-opacity="0.1" stroke-width="0.12" />
+<path d="M0 16.7998H24" stroke="#06FC99" stroke-opacity="0.1" stroke-width="0.12" />
+<path d="M0 17.4004H24" stroke="#06FC99" stroke-opacity="0.1" stroke-width="0.12" />
+<path d="M0 18H24" stroke="#06FC99" stroke-opacity="0.1" stroke-width="0.12" />
+<path d="M0 18.5996H24" stroke="#06FC99" stroke-opacity="0.1" stroke-width="0.12" />
+<path d="M0 19.2002H24" stroke="#06FC99" stroke-opacity="0.1" stroke-width="0.12" />
+<path d="M0 19.7998H24" stroke="#06FC99" stroke-opacity="0.1" stroke-width="0.12" />
+<path d="M0 20.4004H24" stroke="#06FC99" stroke-opacity="0.1" stroke-width="0.12" />
+<path d="M0 21H24" stroke="#06FC99" stroke-opacity="0.1" stroke-width="0.12" />
+<path d="M0 21.5996H24" stroke="#06FC99" stroke-opacity="0.1" stroke-width="0.12" />
+<path d="M0 22.2002H24" stroke="#06FC99" stroke-opacity="0.1" stroke-width="0.12" />
+<path d="M0 22.7998H24" stroke="#06FC99" stroke-opacity="0.1" stroke-width="0.12" />
+<path d="M0 23.4004H24" stroke="#06FC99" stroke-opacity="0.1" stroke-width="0.12" />
+<path d="M0 24H24" stroke="#06FC99" stroke-opacity="0.1" stroke-width="0.12" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M17.7602 5.75977V18.1198H6.24023V18.1196H8.40023V15.9385H6.24023V7.94095H8.40023V5.75977H17.7602ZM10.2001 7.94104H15.6001V10.1222H10.2001V7.94104ZM15.6001 14.121H10.2001V10.1222L8.04013 10.1223V14.1211L10.2001 14.121V16.3022H15.6001V14.121Z" fill="#06FC99" />
+</g>
+</g>
+<defs>
+<clipPath id="clip0_43673_5459">
+<rect width="24" height="24" fill="white" />
+</clipPath>
+</defs>
+</svg>

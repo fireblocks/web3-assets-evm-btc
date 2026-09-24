@@ -1,0 +1,35 @@
+{
+  "name": "@fireblocks-recovery/assets-evm-btc",
+  "version": "0.1.0",
+  "license": "UNLICENSED",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "sideEffects": false,
+  "files": [
+    "dist",
+    "icons",
+    "data"
+  ],
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "require": "./dist/index.js",
+      "default": "./dist/index.js"
+    },
+    "./icons/*": "./icons/*",
+    "./data/tokens.json": "./data/tokens.json"
+  },
+  "scripts": {
+    "generate:registry": "tsx scripts/generateRegistry.ts",
+    "prebuild": "pnpm run generate:registry",
+    "build": "tsc",
+    "type-check": "tsc --noEmit",
+    "clean": "rm -rf dist tsconfig.tsbuildinfo"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^22.10.5",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  }
+}
